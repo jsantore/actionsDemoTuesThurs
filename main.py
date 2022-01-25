@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-#this is a problem
+# this is a problem
 def add_it_up(first: int, second: int):
     return first + second
 
